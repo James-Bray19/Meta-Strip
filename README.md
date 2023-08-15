@@ -36,3 +36,10 @@ MetaStrip is a simple Python application built using the Tkinter library that al
    ```
 3. Run the `meta_strip.py` script to start the application.
 4. Follow the instructions provided in the application's GUI to remove metadata from image files.
+
+## Potential Improvements
+
+ - Strip images in batches
+ - Add a feature inside file explorer instead of standalone
+ - Convert image types as well
+ - Custom output folder
